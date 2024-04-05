@@ -1,4 +1,4 @@
-# CHANGELOG
+PCB Walkthrough CHANGELOG
 
 ## {DATE}
 ### Contributors
@@ -13,14 +13,15 @@
 ### Removed
 .................. 
 
-1 CHANGELOG
-
 4/3/2024 
 Rebecca Wong 
 ...
 Images of schematic, PCB, and 3D model Added
 ...
-Nothing Changed
+
+4/4/2024 
+Rebecca Wong 
 ...
-Nothing Removed
+Images of schematic, PCB, and 3D model properly renamed to schematic, layout, and 3d.
 ...
+
